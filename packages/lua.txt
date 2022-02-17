@@ -1,0 +1,9 @@
+LPeg
+LuaFileSystem
+LuaSec
+LuaSocket
+argparse
+http
+lua-cjson 2.1.0-1
+lua-resty-http
+say
